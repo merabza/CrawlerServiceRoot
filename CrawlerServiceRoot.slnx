@@ -1,0 +1,13 @@
+<Solution>
+    <Folder Name="/Solution Items/">
+        <File Path=".editorconfig" />
+        <File Path="Directory.Build.props" />
+        <File Path="Directory.Packages.props" />
+    </Folder>
+    <Folder Name="/SystemTools/">
+        <Project Path="../SystemTools/SystemTools.SharedKernel/SystemTools.SharedKernel.csproj" />
+        <Project Path="../SystemTools/SystemTools.SystemToolsShared/SystemTools.SystemToolsShared.csproj" />
+    </Folder>
+    <Project Path="CrawlerServiceRoot.Application.Abstractions/CrawlerServiceRoot.Application.Abstractions.csproj" />
+    <Project Path="CrawlerServiceRoot.Domain/CrawlerServiceRoot.Domain.csproj" />
+</Solution>
